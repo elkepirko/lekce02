@@ -3,3 +3,10 @@ html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
 
+img{
+    width: 32%;
+}
+h1{
+    margin-bottom: 50px;
+
+}
